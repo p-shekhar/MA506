@@ -1,19 +1,19 @@
 # Site settings
-course_name: History of Magic
+course_name: MA506 Probability and Statistical Inference
 course_description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam ornare aliquam mattis. Donec hendrerit sollicitudin urna. Aliquam venenatis rutrum velit, at lobortis dui cursus a. Nam varius metus in turpis maximus, ut rhoncus tellus dictum. In aliquam tortor nec mi dapibus, sit amet vehicula dolor auctor."
-course_semester: "Fall 1998"
+course_semester: "Fall 2022"
 
 baseurl: "/MA506" # the subpath of your site, e.g. /blog/
 url: "https://p-shekhar.github.io/" # the base hostname & protocol for your site
 
-schoolname: "Hogwarts"
-schoolurl: "https://hogwarts.edu"
-twitter_username: username 
+schoolname: "Embry-Riddle Aeronautical University"
+schoolurl: "https://erau.edu/"
+# twitter_username: username 
 
 address: |
-    School of Witchcraft and Wizardry
-    Hogwarts
-    Scotland
+    1 Aerospace Blvd
+    Daytona Beach, FL,
+    32114
 
 # Set your Google Analytics tracking ID (set up yours at http://www.google.com/analytics/)
 # google_analytics: UA-XXXXXXXX-X
