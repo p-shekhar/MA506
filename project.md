@@ -3,4 +3,4 @@ layout: page
 title: Project
 permalink: /project/
 ---
-Describe Final project.
+Look out for the details for course project here.

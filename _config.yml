@@ -1,6 +1,10 @@
 # Site settings
 course_name: MA506 Probability and Statistical Inference
-course_description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam ornare aliquam mattis. Donec hendrerit sollicitudin urna. Aliquam venenatis rutrum velit, at lobortis dui cursus a. Nam varius metus in turpis maximus, ut rhoncus tellus dictum. In aliquam tortor nec mi dapibus, sit amet vehicula dolor auctor."
+course_description: "This course will focus on using ideas from Probability and Statistics to solve problems in data science. The main topics included in the course are
+1. Fundamentals of Statistical Learning 2. Linear Regression
+3. Classification
+4. Statistical Model Selection
+5. Advanced topics in Regression/Classification"
 course_semester: "Fall 2022"
 
 baseurl: "/MA506" # the subpath of your site, e.g. /blog/

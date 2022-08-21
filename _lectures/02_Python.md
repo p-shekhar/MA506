@@ -1,8 +1,8 @@
 ---
 type: lecture
-date: 2018-09-16T8:00:00+4:30
-title: Course Introduction
-tldr: "We will go over course policies, a brief description and introduction"
+date: 2019-09-16T8:00:00+4:30
+title: Python Introduction
+tldr: "We will go over basic commands in python"
 thumbnail: /static_files/presentations/lec.jpg
 links: 
     - url: /static_files/presentations/lec.zip
