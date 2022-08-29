@@ -4,10 +4,28 @@ layout: default
 
 <div class="home">
 
+
     <h1>{{ site.course_name }} <span style="font-size: 20px;color: #0006;">/ {{ site.course_semester }} </span></h1>
-    <h3>Course Instructor: Prashant Shekhar, PhD</h3>
+    <h3><i>Course Instructor</i>: Prashant Shekhar, PhD</h3>
+    <h3><i>Contact</i>:</h3>
+    <ul>
+        <li><i>Email</i>: <a href = "mailto:prashant.shekhar@erau.edu?subject = Feedback&body = Message">prashant.shekhar@erau.edu</a> </li>
+        <li><i>Office</i>: Bldg COAS Rm. 301.26</li>
+    </ul>
     {% include announcements.html %}
+    <h3><strong>Class Details</strong></h3>
+    <ul>
+        <li><i>Class time</i>: 10:00 AM to 10:50 AM</li>
+        <li><i>Class venue</i>: Bldg COAS Rm. 304</li>
+        <li><i>Office hours</i>: MWF 11:00 AM to 11:59 AM</li>
+        <li><i>Office hours Venue</i>: Bldg COAS Rm. 301.26</li>
+        <li><a href = "static_files/presentations/MA440_course_description.pdf" target = "_blank"><i>Course description (pdf)</i></a></li>
+        <li><a href = "static_files/presentations/MA440_course_syllabus.pdf" target = "_blank"><i>Tentative schedule (pdf)</i></a></li>
+
+    </ul>
+
     <br />
+
 
     <h2>Course Description</h2>
     <p>{{ site.course_description }}</p>

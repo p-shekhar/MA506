@@ -3,9 +3,12 @@ layout: page
 title: Materials
 permalink: /materials/
 ---
-{% include image.html url="/_images/cover4.png" width=155 align="right" %}
-{% include image.html url="/_images/cover3.png" width=160 align="right" %}
-{% include image.html url="/_images/cover2.png" width = 140 align="right" %}
+
+<img src = "../_images/cover4.png" width="140" align="right">
+<img src = "../_images/cover0.png" width="10" align="right">
+<img src = "../_images/cover3.png" width="145" align="right">
+<img src = "../_images/cover0.png" width="10" align="right">
+<img src = "../_images/cover2.png" width="127" align="right">
 
 
 ## Book
