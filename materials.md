@@ -13,9 +13,9 @@ permalink: /materials/
 
 ## Book
 The material will be provided to the students in the form of jupyter notebooks, pdfs and hand written notes. Additionally, the students can refer to the following textbooks to get a deeper understanding of the topic.
-* <a href = "https://www.statlearning.com/">An Introduction to Statistical Learning with Applications in R</a>
-* <a href = "https://www.amazon.com/Semiparametric-Regression-Statistical-Probabilistic-Mathematics/dp/0521785162">Semiparametric Regression</a>
-* <a href = "https://hastie.su.domains/ElemStatLearn/">Elements of Statistical Learning</a>
+* <a href = "https://www.statlearning.com/" target = "_blank">An Introduction to Statistical Learning with Applications in R</a>
+* <a href = "https://www.amazon.com/Semiparametric-Regression-Statistical-Probabilistic-Mathematics/dp/0521785162" target = "_blank">Semiparametric Regression</a>
+* <a href = "https://hastie.su.domains/ElemStatLearn/" target = "_blank">Elements of Statistical Learning</a>
 
 <!--
 ## Additional Course Materials
