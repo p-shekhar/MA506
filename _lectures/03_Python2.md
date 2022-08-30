@@ -1,7 +1,7 @@
 ---
 type: lecture
 date: 2022-09-02T8:00:00
-title: Python II
+title: Lecture 3 Python II
 tldr: "We will discuss computations and visualizations in python"
 thumbnail: /static_files/presentations/lec.jpg
 links: 

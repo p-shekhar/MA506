@@ -1,7 +1,7 @@
 ---
 type: lecture
 date: 2022-08-31T8:00:00
-title: Python I
+title: Lecture 2 Python I
 tldr: "We will go over basic commands in python"
 thumbnail: /static_files/presentations/lec.jpg
 links: 
