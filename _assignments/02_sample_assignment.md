@@ -5,7 +5,7 @@ date: 2022-10-05
 title: 'Homework 2'
 pdf: /static_files/assignments/MA506_Homework2.pdf
 <!--attachment: /static_files/assignments/asg.zip -->
-<!--solutions: /static_files/assignments/asg_solutions.pdf -->
+solutions: /static_files/assignments/HW2_solution.zip
 due_event: 
     type: due
     date: 2022-10-19T23:59:00
